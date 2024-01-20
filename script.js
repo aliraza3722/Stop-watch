@@ -57,7 +57,7 @@ function updateDasplay() {
 
 
     let secStr;
-    if (msecStr < 10) {
+    if (secStr < 10) {
         secStr = '0';
     }else {
         secStr = sec;
